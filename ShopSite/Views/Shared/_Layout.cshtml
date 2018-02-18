@@ -1,0 +1,58 @@
+﻿@*<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>*@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Eliel Website</title>
+    <link rel="stylesheet" href="~/Content/style.css" type="text/css" />
+    <script>
+
+    </script>
+</head>
+<body>
+    <div class="page">
+        <div class="header">
+            @Html.Action("StatusUserBar", "UserAccess")
+            <ul>
+                <li class="selected">@Html.ActionLink("בית", "Master", controllerName: "Home")</li>
+                <li>
+                    <div>
+                        @Html.ActionLink("התחברות", "UserLogin", controllerName: "UserAccess")
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        @Html.ActionLink("סל קניות", "Basket", controllerName: "Basket")
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        @Html.ActionLink("העלאת חפץ ללוח", "UpdateItem", controllerName: "UploadItem")
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        @Html.ActionLink("הרשמה", "Registration", controllerName: "Registration")
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        @Html.ActionLink("אודותנו", "About", controllerName: "Home")
+                    </div>
+                </li>
+                <li>
+                    <div>
+                        @Html.ActionLink("צור קשר", "Contact", controllerName: "Home")
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <div class="body">
+            @RenderBody()
+
+        </div>
+    </div>
+</body>
+</html>  

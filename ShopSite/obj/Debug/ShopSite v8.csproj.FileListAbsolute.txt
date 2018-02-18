@@ -1,0 +1,101 @@
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\ApplicationInsights.config
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\roslyn\csc.exe
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\roslyn\System.Collections.Immutable.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\roslyn\System.Reflection.Metadata.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\roslyn\vbc.exe
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\roslyn\VBCSCompiler.exe
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\roslyn\VBCSCompiler.exe.config
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\ShopSite.dll.config
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\ShopSite.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\ShopSite.pdb
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\EntityFramework.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\EntityFramework.SqlServer.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.AI.Agent.Intercept.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.AI.DependencyCollector.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.AI.Web.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.AI.WindowsServer.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.ApplicationInsights.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.Web.Infrastructure.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\System.Web.Helpers.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\System.Web.Mvc.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\System.Web.Razor.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\System.Web.Webpages.Deployment.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\System.Web.Webpages.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\System.Web.Webpages.Razor.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\EntityFramework.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\EntityFramework.SqlServer.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.AI.DependencyCollector.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.AI.Web.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.AI.WindowsServer.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.ApplicationInsights.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\System.Web.Razor.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\System.Web.Webpages.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\System.Web.Webpages.Deployment.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\System.Web.Webpages.Razor.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\System.Web.Helpers.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\bin\System.Web.Mvc.xml
+G:\פרוייקט WEB\ShopSite V8\ShopSite\obj\Debug\ShopSite v8.csprojResolveAssemblyReference.cache
+G:\פרוייקט WEB\ShopSite V8\ShopSite\obj\Debug\ShopSite.dll
+G:\פרוייקט WEB\ShopSite V8\ShopSite\obj\Debug\ShopSite.pdb
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\obj\Debug\ShopSite v8.csprojResolveAssemblyReference.cache
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\obj\Debug\ShopSite v8.csproj.CoreCompileInputs.cache
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\obj\Debug\ShopSite.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\obj\Debug\ShopSite.pdb
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\ApplicationInsights.config
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\roslyn\csc.exe
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\roslyn\vbc.exe
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\roslyn\VBCSCompiler.exe
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\ShopSite.dll.config
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\ShopSite.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\ShopSite.pdb
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\EntityFramework.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\EntityFramework.SqlServer.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.AI.Web.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.ApplicationInsights.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Helpers.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Mvc.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Razor.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Webpages.Deployment.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Webpages.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Webpages.Razor.dll
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\EntityFramework.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\EntityFramework.SqlServer.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.AI.Web.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.ApplicationInsights.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Razor.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Webpages.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Webpages.Deployment.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Webpages.Razor.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Helpers.xml
+C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Mvc.xml

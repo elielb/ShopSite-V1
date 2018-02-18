@@ -1,0 +1,14 @@
+﻿@model ShopSite.Models.MyUser
+@{
+    ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<body>
+    <div>
+        @using (Html.BeginForm())
+        {
+            @Html.EditorForModel()
+            <input type="submit" value="שלח" />
+        }
+    </div>
+

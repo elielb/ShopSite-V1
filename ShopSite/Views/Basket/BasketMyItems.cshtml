@@ -1,0 +1,21 @@
+﻿
+@{
+    Layout = null;
+}
+
+
+<li>
+    <div>
+@model ShopSite.Models.MyItem
+        <a href="blog.html"><img src="~/images/fruits.jpg" alt="" /></a>
+        <h3>
+            @Model.Title
+        </h3>
+        <p>@Model.ShortDescription <br />@Model.Date </p>
+
+        <div>@Model.LongDescription</div>
+        @*<div>@item.PicLink1</div>*@
+        <a href="blog.html"></a>
+    </div>
+</li>
+

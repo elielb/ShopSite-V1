@@ -1,0 +1,16 @@
+﻿@model ShopSite.Models.MyUser
+@{
+    ViewBag.Title = "UserLogin";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>הגעת לעמוד ההתחברות</h2>
+<h3>אנא הכנס את האימייל והסיסמה</h3>
+<div>
+    @using (Html.BeginForm())
+    {
+        @Html.EditorFor(x => x.Email)
+        @Html.EditorFor(y => y.Pass)
+        <input type="submit" value="התחבר" />
+    }
+</div>

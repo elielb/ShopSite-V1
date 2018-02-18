@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Master";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<ul class="blog">
+
+    @model IEnumerable<ShopSite.Repository.Item>
+
+    @foreach (var item in @Model.ToList())
+    {
+        <li>
+            <div>
+                @if (item.PicLink1 != null)
+                {
+                    <img src='data:image/jpeg;base64,
+                          @(Convert.ToBase64String(item.PicLink1))' 
+                         height= "170px" width="250px" />
+                }
+                else
+                {
+                    <a><img src="~/images/fruits.jpg" alt="" /></a>
+                }
+                <h3>
+                    @item.Title
+                </h3>
+                <p>@item.ShortDescription @item.Date </p>
+
+                @Html.ActionLink("הוסף לסל", "AddClick", "Basket", new { itemId = item.ItemId }, null)
+            </div>
+        </li>
+    }
+
+</ul>

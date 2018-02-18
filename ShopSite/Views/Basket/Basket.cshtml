@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ShopSite.Repository.Item>
+
+@{
+    ViewBag.Title = "Basket";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>סל קניות</h1>
+@foreach (var item in Model)
+{
+    <li>
+        <div>
+          <h3>@Html.DisplayFor(T=>item.Title)</h3> 
+            <p>@Html.DisplayFor(s=>item.ShortDescription)</p>
+            <p>@Html.DisplayFor(d=>item.Date)</p>
+            <div>@Html.DisplayFor(l=>item.LongDescription)</div>
+            @if (item.PicLink1 != null)
+                {
+                <img src='data:image/jpeg;base64,
+                          @(Convert.ToBase64String(item.PicLink1))' height="170px" width="250px" />
+            }
+            else
+            {
+                <a><img src="~/images/fruits.jpg" alt="" /></a>
+            }
+        </div>
+    </li>
+}

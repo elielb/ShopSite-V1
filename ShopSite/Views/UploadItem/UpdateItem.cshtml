@@ -1,0 +1,24 @@
+﻿@{
+    ViewBag.Title = "UpdateItem";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+    @model ShopSite.Models.MyItem
+    @using (Html.BeginForm("UpdateItem", "UploadItem", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @Html.EditorForModel()
+
+        <div>
+            @Html.LabelFor(m => m.PicLink1) <input type="file" name="PicLink1" id="fileUpload" accept=".png,.jpg,.jpeg,.gif,.tif" />
+        </div>
+        <div>
+            @Html.LabelFor(m => m.PicLink2) <input type="file" name="PicLink2" id="fileUpload2" accept=".png,.jpg,.jpeg,.gif,.tif" />
+        </div>
+        <div>
+            @Html.LabelFor(m => m.PicLink3) <input type="file" name="PicLink3" id="fileUpload3" accept=".png,.jpg,.jpeg,.gif,.tif" />
+        </div>
+        <input type="submit" value="פרסם מודעה" />
+    }
+</div>
+
