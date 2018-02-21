@@ -27,10 +27,7 @@ namespace ShopSite.Controllers
                     {
                         if (userInDb.Email == userClass.Email && userInDb.Pass == userClass.Pass)
                         {
-                            //HttpCookie cookie = new HttpCookie("StudentCookies", userClass.Email);
-                            //cookie.Expires = DateTime.Now.AddMinutes(10);
-                            //Response.Cookies.Add(cookie);
-                            HttpCookie cookie2 = new HttpCookie("UserId", userInDb.UserId.ToString());
+                                                        HttpCookie cookie2 = new HttpCookie("UserId", userInDb.UserId.ToString());
                             cookie2.Expires = DateTime.Now.AddMinutes(10);
                             Response.Cookies.Add(cookie2);
                             return View("StatusUser", userClass);

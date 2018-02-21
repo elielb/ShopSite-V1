@@ -13,36 +13,36 @@ namespace ShopSite.Models
         [ScaffoldColumn(false)]
         public long? UserId { get; set; }
 
-        [Required(ErrorMessage = "חסר שם פרטי")]
-        [MaxLength(10, ErrorMessage = "מקסימום 10 תווים")]
-        [Display(Name = "שם פרטי")]
+        [Required(ErrorMessage = "Please enter first name")]
+        [MaxLength(10, ErrorMessage = "10 chars maximum")]
+        [Display(Name = "First Name")]
         public string FirstName { get; set; }
         
-        [MaxLength(10, ErrorMessage = "מקסימום 10 תווים")]
-        [Required(ErrorMessage = "חסר שם משפחה")]
-        [Display(Name = "שם משפחה")]
+        [MaxLength(10, ErrorMessage = "10 chars maximum")]
+        [Required(ErrorMessage = "Please enter last name")]
+        [Display(Name = "Last name")]
         public string LastName { get; set; }
 
-        [Required(ErrorMessage = "חסר דואר אלקטרוני")]
+        [Required(ErrorMessage = "Please enter email ")]
         [EmailAddress]
         [DataType(DataType.EmailAddress)]
-        [Display(Name = "דואר אלקטרוני")]
+        [Display(Name = "Email")]
         public string Email { get; set; }
 
-        [Required(ErrorMessage = "חסר סיסמה")]
+        [Required(ErrorMessage = "miss password")]
         [DataType(DataType.Password)]
-        [Display(Name = "סיסמה")]
+        [Display(Name = "Password")]
         public string Pass { get; set; }
         [Required]
         [DataType(DataType.Password)]
-        [Display(Name = "הקש שוב סיסמה")]
-        [Compare("Pass", ErrorMessage = "הסיסמה לא תואמת")]
+        [Display(Name = "Please enter again password")]
+        [Compare("Pass", ErrorMessage = "The password didnt match")]
         public string ConfirmPassword { get; set; }
 
-        [Required(ErrorMessage = "חסר תאריך לידה")]
+        [Required(ErrorMessage = "Please enter Birth date")]
         [Timestamp]
         [DataType(DataType.Date)]
-        [Display(Name = "תאריך לידה")]
+        [Display(Name = "Birth date")]
         public DateTime BirthDate { get; set; }
     }
 }

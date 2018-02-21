@@ -27,7 +27,7 @@
                 </h3>
                 <p>@item.ShortDescription @item.Date </p>
 
-                @Html.ActionLink("הוסף לסל", "AddClick", "Basket", new { itemId = item.ItemId }, null)
+                @Html.ActionLink("Add to basket", "AddClick", "Basket", new { itemId = item.ItemId }, null)
             </div>
         </li>
     }
