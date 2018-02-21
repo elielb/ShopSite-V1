@@ -16,35 +16,32 @@ namespace ShopSite.Models
         [ScaffoldColumn(false)]
         public long? UserId { get; set; }
         [Required]
-        [Display(Name = "כותרת:")]
-        [MaxLength(10, ErrorMessage = "מקסימום 10 תווים")]
+        [Display(Name = "Titel:")]
+        [MaxLength(10, ErrorMessage = "10 chars maximum")]
         public string Title { get; set; }
 
         [Required]
-        [Display(Name = "תיאור קצר")]
+        [Display(Name = "Short description ")]
         public string ShortDescription { get; set; }
 
         [Required]
-        [Display(Name = "תיאור ארוך")]
+        [Display(Name = "Long description")]
         [DataType(DataType.MultilineText)]
-        [StringLength(500, ErrorMessage = "מקסימום 500 תווים")]
+        [StringLength(500, ErrorMessage = "500 chars maximum")]
         public string LongDescription { get; set; }
 
         [Required]
-        [Display(Name = "מחיר:")]
+        [Display(Name = "Price:")]
         public decimal Price { get; set; }
         
             
-        //[DataType(DataType.Upload)]
-        [Display(Name = "תמונה 1")]
+        [Display(Name = "Picture 1")]
         public HttpPostedFileBase PicLink1 { get; set; }
-
-        //[DataType(DataType.Text)]
-        [Display(Name = "תמונה 2")]
+        
+        [Display(Name = "Picture 2")]
         public HttpPostedFileBase PicLink2 { get; set; }
-
-        //[DataType(DataType.Upload)]
-        [Display(Name = "תמונה 3")]
+        
+        [Display(Name = "Picture 3")]
         public HttpPostedFileBase PicLink3 { get; set; }
 
         [ScaffoldColumn(false)]

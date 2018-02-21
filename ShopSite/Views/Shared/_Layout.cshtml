@@ -16,35 +16,35 @@
         <div class="header">
             @Html.Action("StatusUserBar", "UserAccess")
             <ul>
-                <li class="selected">@Html.ActionLink("בית", "Master", controllerName: "Home")</li>
+                <li class="selected">@Html.ActionLink("Home", "Master", controllerName: "Home")</li>
                 <li>
                     <div>
-                        @Html.ActionLink("התחברות", "UserLogin", controllerName: "UserAccess")
+                        @Html.ActionLink("Connect", "UserLogin", controllerName: "UserAccess")
                     </div>
                 </li>
                 <li>
                     <div>
-                        @Html.ActionLink("סל קניות", "Basket", controllerName: "Basket")
+                        @Html.ActionLink("Your basket", "Basket", controllerName: "Basket")
                     </div>
                 </li>
                 <li>
                     <div>
-                        @Html.ActionLink("העלאת חפץ ללוח", "UpdateItem", controllerName: "UploadItem")
+                        @Html.ActionLink("Upload to the bord", "UpdateItem", controllerName: "UploadItem")
                     </div>
                 </li>
                 <li>
                     <div>
-                        @Html.ActionLink("הרשמה", "Registration", controllerName: "Registration")
+                        @Html.ActionLink("Registration", "Registration", controllerName: "Registration")
                     </div>
                 </li>
                 <li>
                     <div>
-                        @Html.ActionLink("אודותנו", "About", controllerName: "Home")
+                        @Html.ActionLink("About", "About", controllerName: "Home")
                     </div>
                 </li>
                 <li>
                     <div>
-                        @Html.ActionLink("צור קשר", "Contact", controllerName: "Home")
+                        @Html.ActionLink("Contact", "Contact", controllerName: "Home")
                     </div>
                 </li>
             </ul>

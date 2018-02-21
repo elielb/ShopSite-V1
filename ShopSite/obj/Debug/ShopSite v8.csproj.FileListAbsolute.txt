@@ -99,3 +99,54 @@ C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\Syst
 C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Webpages.Razor.xml
 C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Helpers.xml
 C:\Users\אליאל\Desktop\Programs\ASP.NET MVC 4\ShopSite V8\ShopSite\bin\System.Web.Mvc.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\ApplicationInsights.config
+D:\Temp-programs\ShopSite V8\ShopSite\bin\roslyn\csc.exe
+D:\Temp-programs\ShopSite V8\ShopSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Temp-programs\ShopSite V8\ShopSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Temp-programs\ShopSite V8\ShopSite\bin\roslyn\System.Collections.Immutable.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\roslyn\System.Reflection.Metadata.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\roslyn\vbc.exe
+D:\Temp-programs\ShopSite V8\ShopSite\bin\roslyn\VBCSCompiler.exe
+D:\Temp-programs\ShopSite V8\ShopSite\bin\roslyn\VBCSCompiler.exe.config
+D:\Temp-programs\ShopSite V8\ShopSite\bin\ShopSite.dll.config
+D:\Temp-programs\ShopSite V8\ShopSite\bin\ShopSite.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\ShopSite.pdb
+D:\Temp-programs\ShopSite V8\ShopSite\bin\EntityFramework.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\EntityFramework.SqlServer.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.AI.DependencyCollector.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.AI.Web.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.AI.WindowsServer.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.ApplicationInsights.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.Web.Infrastructure.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\System.Web.Helpers.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\System.Web.Mvc.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\System.Web.Razor.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\System.Web.Webpages.Deployment.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\System.Web.Webpages.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\System.Web.Webpages.Razor.dll
+D:\Temp-programs\ShopSite V8\ShopSite\bin\EntityFramework.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\EntityFramework.SqlServer.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.AI.DependencyCollector.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.AI.Web.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.AI.WindowsServer.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.ApplicationInsights.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\System.Web.Razor.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\System.Web.Webpages.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\System.Web.Webpages.Deployment.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\System.Web.Webpages.Razor.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\System.Web.Helpers.xml
+D:\Temp-programs\ShopSite V8\ShopSite\bin\System.Web.Mvc.xml
+D:\Temp-programs\ShopSite V8\ShopSite\obj\Debug\ShopSite v8.csprojResolveAssemblyReference.cache
+D:\Temp-programs\ShopSite V8\ShopSite\obj\Debug\ShopSite v8.csproj.CoreCompileInputs.cache
+D:\Temp-programs\ShopSite V8\ShopSite\obj\Debug\ShopSite.dll
+D:\Temp-programs\ShopSite V8\ShopSite\obj\Debug\ShopSite.pdb
